@@ -1,4 +1,4 @@
-# certificados
+### certificados que já obtive de cursos online em ordem cronológica
 
 <hr>
 
@@ -10,19 +10,20 @@
 
 ![](https://raw.githubusercontent.com/wesley-cantarino/certificados/master/design_responsivo.jpg)
 
+
 [validação online](https://www.udemy.com/certificate/UC-TJ7D4TS2/)
 
 <hr>
 
 ![](https://raw.githubusercontent.com/wesley-cantarino/certificados/master/programacao_fisica_2018.png)
 
-[validação](http://codeiot.org.br/certificates/13802e48f1b748a4ace83a3f53ac93c5)
+[validação online](http://codeiot.org.br/certificates/13802e48f1b748a4ace83a3f53ac93c5)
 
 <hr>
 
 ![](https://raw.githubusercontent.com/wesley-cantarino/certificados/master/programacao_mobile.png)
 
-[validação](http://codeiot.org.br/certificates/d3bf3bb0bb7c40cc8322dd0808254d6d)
+[validação online](http://codeiot.org.br/certificates/d3bf3bb0bb7c40cc8322dd0808254d6d)
 
 <hr>
 
@@ -38,6 +39,6 @@
 
 <hr>
 
-![](https://raw.githubusercontent.com/wesley-cantarino/certificados/master/iot.jpg)
+![](https://raw.githubusercontent.com/wesley-cantarino/certificados/master/iot.png)
 
 [validação online](http://codeiot.org.br/certificates/1ea67221115744799cbfe912a223d071)
