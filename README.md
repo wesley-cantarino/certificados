@@ -2,6 +2,12 @@
 
 <hr>
 
+![](https://raw.githubusercontent.com/wesley-cantarino/certificados/master/cpp.jpg)
+
+[validação online](https://www.udemy.com/certificate/UC-1E3RA1XN/)
+
+<hr>
+
 ![](https://raw.githubusercontent.com/wesley-cantarino/certificados/master/github_full.png)
 
 [validação online](https://capitalcode.com.br/certificado/2068RU25M)
